@@ -1,0 +1,5154 @@
+{
+ "gerado_em": "2026-08-03",
+ "aluno": "Brenin",
+ "familias": {
+  "AMBAS": {
+   "cor": "1A51BD",
+   "rotulo": "Cai nas DUAS provas"
+  },
+  "EAM": {
+   "cor": "0C7E65",
+   "rotulo": "Só EAM — Marinha"
+  },
+  "ESA": {
+   "cor": "7B5400",
+   "rotulo": "Só ESA — Exército"
+  }
+ },
+ "materias": {
+  "Matemática": {
+   "familia": "AMBAS",
+   "barra": "1A51BD",
+   "tinta": "E8EEF8",
+   "tinta2": "D1DCF2",
+   "texto": "0244BE"
+  },
+  "Português": {
+   "familia": "AMBAS",
+   "barra": "487CDE",
+   "tinta": "EDF2FC",
+   "tinta2": "DAE5F8",
+   "texto": "1148B3"
+  },
+  "Inglês": {
+   "familia": "AMBAS",
+   "barra": "719DEF",
+   "tinta": "F1F5FD",
+   "tinta2": "E3EBFC",
+   "texto": "204CA4"
+  },
+  "Física": {
+   "familia": "EAM",
+   "barra": "0C7E65",
+   "tinta": "E7F2F0",
+   "tinta2": "CEE5E0",
+   "texto": "01614D"
+  },
+  "Química": {
+   "familia": "EAM",
+   "barra": "0DB28F",
+   "tinta": "E7F7F4",
+   "tinta2": "CFF0E9",
+   "texto": "01614D"
+  },
+  "História": {
+   "familia": "ESA",
+   "barra": "7B5400",
+   "tinta": "F2EEE6",
+   "tinta2": "E5DDCC",
+   "texto": "6D4B04"
+  },
+  "Geografia": {
+   "familia": "ESA",
+   "barra": "9F6E00",
+   "tinta": "F5F0E6",
+   "tinta2": "ECE2CC",
+   "texto": "6D4B04"
+  },
+  "Literatura": {
+   "familia": "ESA",
+   "barra": "C48800",
+   "tinta": "F9F3E6",
+   "tinta2": "F3E7CC",
+   "texto": "6D4B04"
+  },
+  "Redação": {
+   "familia": "ESA",
+   "barra": "E5A424",
+   "tinta": "FCF6E9",
+   "tinta2": "FAEDD3",
+   "texto": "6D4B04"
+  }
+ },
+ "ordem": [
+  "Matemática",
+  "Português",
+  "Inglês",
+  "Física",
+  "Química",
+  "História",
+  "Geografia",
+  "Literatura",
+  "Redação"
+ ],
+ "dias": [
+  "SEGUNDA",
+  "TERÇA",
+  "QUARTA",
+  "QUINTA",
+  "SEXTA",
+  "SÁBADO",
+  "DOMINGO"
+ ],
+ "marcos": [
+  {
+   "nome": "Início deste plano",
+   "data": "2026-08-03",
+   "tag": null,
+   "acao": "Montar a rotina e não quebrar nas 4 primeiras semanas."
+  },
+  {
+   "nome": "Edital da EAM 2027 (previsto)",
+   "data": "2027-01-20",
+   "tag": null,
+   "acao": "Conferir o conteúdo oficial e ajustar esta planilha."
+  },
+  {
+   "nome": "Inscrição na EAM (previsto)",
+   "data": "2027-02-01",
+   "tag": null,
+   "acao": "Inscrever-se no primeiro dia. Não deixar para depois."
+  },
+  {
+   "nome": "PROVA DA EAM (previsto)",
+   "data": "2027-04-25",
+   "tag": "EAM",
+   "acao": "Último domingo de abril. 50 questões em 4 horas."
+  },
+  {
+   "nome": "Edital da ESA 2028 (previsto)",
+   "data": "2027-03-20",
+   "tag": null,
+   "acao": "Conferir e ajustar."
+  },
+  {
+   "nome": "Inscrição na ESA (previsto)",
+   "data": "2027-05-05",
+   "tag": null,
+   "acao": "Inscrever-se assim que abrir."
+  },
+  {
+   "nome": "PROVA DA ESA (previsto)",
+   "data": "2027-07-25",
+   "tag": "ESA",
+   "acao": "Último domingo de julho. 50 questões + redação eliminatória."
+  }
+ ],
+ "provas": [
+  {
+   "materia": "Matemática",
+   "eam": 15,
+   "esa": 14,
+   "horas": 4.5,
+   "porque": "Maior peso somado das duas provas. É a matéria que mais decide."
+  },
+  {
+   "materia": "Português",
+   "eam": 15,
+   "esa": 14,
+   "horas": 3.0,
+   "porque": "Empatada em peso com Matemática. O curso já cobre parte — aqui você aprofunda."
+  },
+  {
+   "materia": "Física",
+   "eam": 8,
+   "esa": 0,
+   "horas": 3.0,
+   "porque": "Só EAM. Sai da grade em maio, depois da prova da Marinha."
+  },
+  {
+   "materia": "Química",
+   "eam": 7,
+   "esa": 0,
+   "horas": 2.5,
+   "porque": "Só EAM. Sai da grade em maio."
+  },
+  {
+   "materia": "História",
+   "eam": 0,
+   "esa": 6,
+   "horas": 1.0,
+   "porque": "Só ESA. Ganha o dobro de tempo a partir de maio."
+  },
+  {
+   "materia": "Geografia",
+   "eam": 0,
+   "esa": 6,
+   "horas": 1.0,
+   "porque": "Só ESA. Ganha o dobro de tempo a partir de maio."
+  },
+  {
+   "materia": "Literatura",
+   "eam": 0,
+   "esa": "*",
+   "horas": 1.0,
+   "porque": "Só ESA — parte das 14 questões de Português."
+  },
+  {
+   "materia": "Redação",
+   "eam": 0,
+   "esa": "E",
+   "horas": 1.5,
+   "porque": "Só ESA e ELIMINATÓRIA: nota abaixo de 5,0 reprova, por melhor que seja o resto."
+  },
+  {
+   "materia": "Inglês",
+   "eam": 5,
+   "esa": 10,
+   "horas": 1.0,
+   "porque": "Não estava na sua lista, mas vale 10 das 50 questões da ESA — 20% da prova."
+  }
+ ],
+ "carga": [
+  {
+   "materia": "Matemática",
+   "blocos": 3,
+   "horas": 4.5,
+   "onde": "Seg 14h15 · Qua 14h15 · Sex 14h15"
+  },
+  {
+   "materia": "Português",
+   "blocos": 2,
+   "horas": 3.0,
+   "onde": "Seg 19h40 · Qui 19h40"
+  },
+  {
+   "materia": "Física",
+   "blocos": 2,
+   "horas": 3.0,
+   "onde": "Ter 14h15 · Qui 14h15"
+  },
+  {
+   "materia": "Química",
+   "blocos": 2,
+   "horas": 2.5,
+   "onde": "Ter 19h40 · Sex 16h00"
+  },
+  {
+   "materia": "Redação",
+   "blocos": 2,
+   "horas": 1.5,
+   "onde": "Qua 19h40 · Sáb 14h15"
+  },
+  {
+   "materia": "História",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Seg 16h00"
+  },
+  {
+   "materia": "Geografia",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Ter 16h00"
+  },
+  {
+   "materia": "Literatura",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Qua 16h00"
+  },
+  {
+   "materia": "Inglês",
+   "blocos": 1,
+   "horas": 1.0,
+   "onde": "Qui 16h00"
+  }
+ ],
+ "fases": [
+  {
+   "nome": "FASE 1 · BASE",
+   "periodo": "Ago a Nov/26",
+   "muda": "Use a grade exatamente como está.",
+   "porque": "Cobrir todo o conteúdo uma primeira vez, acompanhando o curso."
+  },
+  {
+   "nome": "FASE 2 · APROFUNDAR",
+   "periodo": "Dez/26 a Jan/27",
+   "muda": "Mesma grade — mas todo exercício passa a sair de prova anterior.",
+   "porque": "Sair da teoria e aprender o estilo das bancas antes da reta final."
+  },
+  {
+   "nome": "FASE 3 · RETA EAM",
+   "periodo": "Fev a Abr/27",
+   "muda": "Seg 16h História → Física · Ter 16h Geografia → Química · Qua 16h Literatura → Matemática.",
+   "porque": "A EAM não cobra História, Geografia nem Literatura. Elas entram em modo manutenção (só flashcards)."
+  },
+  {
+   "nome": "FASE 4 · VIRADA ESA",
+   "periodo": "Mai a Jun/27",
+   "muda": "Todos os blocos de Física e Química viram História, Geografia, Literatura, Redação e Inglês.",
+   "porque": "Física e Química NÃO caem na ESA. Depois da prova da Marinha, cada hora nelas é hora jogada fora."
+  },
+  {
+   "nome": "FASE 5 · PICO ESA",
+   "periodo": "Jul/27",
+   "muda": "Dois simulados por semana (quarta e sábado) e duas redações. Teoria vira revisão.",
+   "porque": "No último mês não se aprende conteúdo novo: consolida-se e treina-se ritmo de prova."
+  }
+ ],
+ "grade": [
+  {
+   "h": "06:50–07:20",
+   "dur": "30",
+   "tipo": "rest",
+   "dias": [
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "🌙 Sono livre — sem despertador"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "07:20–07:50",
+   "dur": "30",
+   "tipo": "rev",
+   "dias": [
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards da semana",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "07:50–08:00",
+   "dur": "10",
+   "tipo": "rest",
+   "dias": [
+    "🚶 Saída para o curso",
+    "🚶 Saída para o curso",
+    "🚶 Saída para o curso",
+    "🚶 Saída para o curso",
+    "🚶 Saída para o curso",
+    "🚶 Preparar o simulado",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "08:00–10:00",
+   "dur": "2 h",
+   "tipo": "curso",
+   "dias": [
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "📝 SIMULADO — parte 1 (cronometrado)",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "D8DFE8",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "10:00–10:15",
+   "dur": "15",
+   "tipo": "rest",
+   "dias": [
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "☕ Intervalo curto",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "10:15–12:00",
+   "dur": "1h45",
+   "tipo": "curso",
+   "dias": [
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "CURSO PREPARATÓRIO",
+    "📝 SIMULADO — parte 2 (cronometrado)",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "0E2038",
+     "fg": "FFFFFF",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "D8DFE8",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "12:00–13:00",
+   "dur": "60",
+   "tipo": "rev",
+   "dias": [
+    "🔁 REVISÃO DA AULA DE HOJE — reescrever o resumo e marcar as dúvidas",
+    "🔁 REVISÃO DA AULA DE HOJE — reescrever o resumo e marcar as dúvidas",
+    "🔁 REVISÃO DA AULA DE HOJE — reescrever o resumo e marcar as dúvidas",
+    "🔁 REVISÃO DA AULA DE HOJE — reescrever o resumo e marcar as dúvidas",
+    "🔁 REVISÃO DA AULA DE HOJE — reescrever o resumo e marcar as dúvidas",
+    "✔ Correção do simulado + caderno de erros",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "D8DFE8",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "13:00–14:15",
+   "dur": "75",
+   "tipo": "meal",
+   "dias": [
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso"
+   ],
+   "cores": [
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "14:15–15:45",
+   "dur": "90",
+   "tipo": "blk",
+   "dias": [
+    "Matemática — exercícios do assunto do mês",
+    "Física — teoria + exercícios",
+    "Matemática — exercícios do assunto do mês",
+    "Física — questões de provas anteriores",
+    "Matemática — provas anteriores da ESA e da EAM",
+    "✍ REDAÇÃO — tema novo, 1 h cronometrada + autocorreção",
+    "🌿 Lazer, família, sol"
+   ],
+   "cores": [
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "E7F2F0",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Física"
+    },
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "E7F2F0",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Física"
+    },
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "FCF6E9",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Redação"
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "15:45–16:00",
+   "dur": "15",
+   "tipo": "rest",
+   "dias": [
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "🌿 Lazer"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "16:00–17:00",
+   "dur": "60",
+   "tipo": "blk",
+   "dias": [
+    "História do Brasil — teoria",
+    "Geografia do Brasil — teoria e mapas",
+    "Literatura — escola literária do mês",
+    "Inglês — grammar point + reading",
+    "Química — exercícios",
+    "🔁 Revisão das matérias em atraso",
+    "🌿 Lazer, família, sol"
+   ],
+   "cores": [
+    {
+     "bg": "F2EEE6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "História"
+    },
+    {
+     "bg": "F5F0E6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Geografia"
+    },
+    {
+     "bg": "F9F3E6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Literatura"
+    },
+    {
+     "bg": "F1F5FD",
+     "fg": "204CA4",
+     "bold": true,
+     "materia": "Inglês"
+    },
+    {
+     "bg": "E7F7F4",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Química"
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "17:00–17:40",
+   "dur": "40",
+   "tipo": "meal",
+   "dias": [
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE"
+   ],
+   "cores": [
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "17:40–18:55",
+   "dur": "75",
+   "tipo": "trn",
+   "dias": [
+    "🏃 Corrida 2.400 m + abdominais",
+    "🏊 Natação — séries de 50 m",
+    "🏃 Corrida 2.400 m + barra fixa",
+    "🏊 Natação — séries de 50 m",
+    "🏃 Corrida 2.400 m + abdominais",
+    "🏅 TAF COMPLETO cronometrado",
+    "🌿 Caminhada leve ou descanso"
+   ],
+   "cores": [
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "18:55–19:40",
+   "dur": "45",
+   "tipo": "rest",
+   "dias": [
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🌿 Lazer"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "19:40–21:10",
+   "dur": "90",
+   "tipo": "blk",
+   "dias": [
+    "Português — gramática",
+    "Química — teoria + exercícios",
+    "✍ REDAÇÃO — técnica e produção de parágrafo",
+    "Português — interpretação de texto e sintaxe",
+    "🔁 REVISÃO GERAL DA SEMANA — refazer todos os erros",
+    "🌿 LIVRE — lazer, família, descanso",
+    "🌿 Lazer livre"
+   ],
+   "cores": [
+    {
+     "bg": "EDF2FC",
+     "fg": "1148B3",
+     "bold": true,
+     "materia": "Português"
+    },
+    {
+     "bg": "E7F7F4",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Química"
+    },
+    {
+     "bg": "FCF6E9",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Redação"
+    },
+    {
+     "bg": "EDF2FC",
+     "fg": "1148B3",
+     "bold": true,
+     "materia": "Português"
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "21:10–21:25",
+   "dur": "15",
+   "tipo": "rest",
+   "dias": [
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "🌿 Livre",
+    "🌿 Lazer"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "21:25–22:00",
+   "dur": "35",
+   "tipo": "rev",
+   "dias": [
+    "🎯 Caderno de erros do dia",
+    "🎯 Caderno de erros do dia",
+    "🎯 Caderno de erros do dia",
+    "🎯 Caderno de erros do dia",
+    "🎯 Caderno de erros do dia",
+    "📋 Planejar a semana e preencher a planilha",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "22:00–22:50",
+   "dur": "50",
+   "tipo": "meal",
+   "dias": [
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR"
+   ],
+   "cores": [
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "22:50–23:20",
+   "dur": "30",
+   "tipo": "rev",
+   "dias": [
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🌿 Livre",
+    "📋 Separar o material de segunda (10 min)"
+   ],
+   "cores": [
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "23:20–23:50",
+   "dur": "30",
+   "tipo": "free",
+   "dias": [
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve"
+   ],
+   "cores": [
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "23:50–06:50",
+   "dur": "7 h",
+   "tipo": "sleep",
+   "dias": [
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável"
+   ],
+   "cores": [
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  }
+ ],
+ "grade_sem_curso": [
+  {
+   "h": "06:50–07:20",
+   "dur": "30",
+   "tipo": "rest",
+   "dias": [
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "☀ Despertar, hidratar, café rápido",
+    "🌙 Sono livre"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "07:20–07:50",
+   "dur": "30",
+   "tipo": "rev",
+   "dias": [
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards do dia anterior",
+    "🧠 Flashcards da semana",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "07:50–09:20",
+   "dur": "90",
+   "tipo": "blk",
+   "dias": [
+    "Matemática — teoria do assunto do mês",
+    "Física — teoria do assunto do mês",
+    "Matemática — teoria do assunto do mês",
+    "Física — teoria do assunto do mês",
+    "Matemática — teoria do assunto do mês",
+    "📝 SIMULADO — parte 1 (cronometrado)",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "E7F2F0",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Física"
+    },
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "E7F2F0",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Física"
+    },
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "D8DFE8",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "09:20–09:35",
+   "dur": "15",
+   "tipo": "rest",
+   "dias": [
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "☕ Levantar, alongar, longe da tela",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "09:35–11:05",
+   "dur": "90",
+   "tipo": "blk",
+   "dias": [
+    "Matemática — exercícios (30 questões)",
+    "Química — teoria + exercícios",
+    "Português — gramática",
+    "Física — exercícios (25 questões)",
+    "Química — exercícios",
+    "📝 SIMULADO — parte 2 (cronometrado)",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "E7F7F4",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Química"
+    },
+    {
+     "bg": "EDF2FC",
+     "fg": "1148B3",
+     "bold": true,
+     "materia": "Português"
+    },
+    {
+     "bg": "E7F2F0",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Física"
+    },
+    {
+     "bg": "E7F7F4",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Química"
+    },
+    {
+     "bg": "D8DFE8",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "11:05–11:20",
+   "dur": "15",
+   "tipo": "rest",
+   "dias": [
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "11:20–13:00",
+   "dur": "100",
+   "tipo": "blk",
+   "dias": [
+    "História do Brasil — teoria",
+    "Geografia do Brasil — teoria e mapas",
+    "Literatura — escola literária do mês",
+    "História do Brasil — exercícios",
+    "Geografia do Brasil — exercícios",
+    "✔ Correção do simulado + caderno de erros",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "F2EEE6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "História"
+    },
+    {
+     "bg": "F5F0E6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Geografia"
+    },
+    {
+     "bg": "F9F3E6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Literatura"
+    },
+    {
+     "bg": "F2EEE6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "História"
+    },
+    {
+     "bg": "F5F0E6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Geografia"
+    },
+    {
+     "bg": "D8DFE8",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "13:00–14:15",
+   "dur": "75",
+   "tipo": "meal",
+   "dias": [
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso",
+    "🍽 ALMOÇO + descanso"
+   ],
+   "cores": [
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "14:15–15:45",
+   "dur": "90",
+   "tipo": "blk",
+   "dias": [
+    "Português — interpretação de texto",
+    "Matemática — exercícios (30 questões)",
+    "Física — teoria + exercícios",
+    "Português — sintaxe",
+    "Matemática — provas anteriores",
+    "✍ REDAÇÃO — tema novo, cronometrada",
+    "🌿 Lazer, família, sol"
+   ],
+   "cores": [
+    {
+     "bg": "EDF2FC",
+     "fg": "1148B3",
+     "bold": true,
+     "materia": "Português"
+    },
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "E7F2F0",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Física"
+    },
+    {
+     "bg": "EDF2FC",
+     "fg": "1148B3",
+     "bold": true,
+     "materia": "Português"
+    },
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "FCF6E9",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Redação"
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "15:45–16:00",
+   "dur": "15",
+   "tipo": "rest",
+   "dias": [
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "🌿 Lazer"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "16:00–17:00",
+   "dur": "60",
+   "tipo": "blk",
+   "dias": [
+    "Inglês — grammar + reading",
+    "Literatura — leitura e questões",
+    "Inglês — vocabulary + questões",
+    "Química — exercícios",
+    "🔁 Revisão das matérias em atraso",
+    "🔁 Revisão das matérias em atraso",
+    "🌿 Lazer, família, sol"
+   ],
+   "cores": [
+    {
+     "bg": "F1F5FD",
+     "fg": "204CA4",
+     "bold": true,
+     "materia": "Inglês"
+    },
+    {
+     "bg": "F9F3E6",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Literatura"
+    },
+    {
+     "bg": "F1F5FD",
+     "fg": "204CA4",
+     "bold": true,
+     "materia": "Inglês"
+    },
+    {
+     "bg": "E7F7F4",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Química"
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "17:00–17:40",
+   "dur": "40",
+   "tipo": "meal",
+   "dias": [
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE",
+    "🍽 LANCHE"
+   ],
+   "cores": [
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "17:40–18:55",
+   "dur": "75",
+   "tipo": "trn",
+   "dias": [
+    "🏃 Corrida 2.400 m + abdominais",
+    "🏊 Natação — séries de 50 m",
+    "🏃 Corrida 2.400 m + barra fixa",
+    "🏊 Natação — séries de 50 m",
+    "🏃 Corrida 2.400 m + abdominais",
+    "🏅 TAF COMPLETO cronometrado",
+    "🌿 Caminhada leve ou descanso"
+   ],
+   "cores": [
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "FBE7E4",
+     "fg": "A32A1C",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "18:55–19:40",
+   "dur": "45",
+   "tipo": "rest",
+   "dias": [
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🚿 Banho e descanso livre",
+    "🌿 Lazer"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "19:40–21:10",
+   "dur": "90",
+   "tipo": "blk",
+   "dias": [
+    "✍ REDAÇÃO — técnica e produção",
+    "Português — gramática",
+    "Química — teoria + exercícios",
+    "Matemática — questões mistas",
+    "🔁 REVISÃO GERAL DA SEMANA — refazer todos os erros",
+    "🌿 LIVRE — lazer, família, descanso",
+    "🌿 Lazer livre"
+   ],
+   "cores": [
+    {
+     "bg": "FCF6E9",
+     "fg": "6D4B04",
+     "bold": true,
+     "materia": "Redação"
+    },
+    {
+     "bg": "EDF2FC",
+     "fg": "1148B3",
+     "bold": true,
+     "materia": "Português"
+    },
+    {
+     "bg": "E7F7F4",
+     "fg": "01614D",
+     "bold": true,
+     "materia": "Química"
+    },
+    {
+     "bg": "E8EEF8",
+     "fg": "0244BE",
+     "bold": true,
+     "materia": "Matemática"
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": true,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "21:10–21:25",
+   "dur": "15",
+   "tipo": "rest",
+   "dias": [
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "☕ Descanso",
+    "🌿 Livre",
+    "🌿 Lazer"
+   ],
+   "cores": [
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "21:25–22:00",
+   "dur": "35",
+   "tipo": "rev",
+   "dias": [
+    "🎯 Caderno de erros do dia",
+    "🎯 Caderno de erros do dia",
+    "🎯 Caderno de erros do dia",
+    "🎯 Caderno de erros do dia",
+    "🎯 Caderno de erros do dia",
+    "📋 Planejar a semana e preencher a planilha",
+    "— descanso —"
+   ],
+   "cores": [
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "22:00–22:50",
+   "dur": "50",
+   "tipo": "meal",
+   "dias": [
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR",
+    "🍽 JANTAR"
+   ],
+   "cores": [
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F0F1F4",
+     "fg": "5A6673",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "22:50–23:20",
+   "dur": "30",
+   "tipo": "rev",
+   "dias": [
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🧠 Flashcards espaçados + separar o material de amanhã",
+    "🌿 Livre",
+    "📋 Separar o material de segunda"
+   ],
+   "cores": [
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F4F5F7",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "EDF0F4",
+     "fg": "1C3A5E",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "23:20–23:50",
+   "dur": "30",
+   "tipo": "free",
+   "dias": [
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve",
+    "📵 Desconexão — sem telas, leitura leve"
+   ],
+   "cores": [
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "F7F8FA",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  },
+  {
+   "h": "23:50–06:50",
+   "dur": "7 h",
+   "tipo": "sleep",
+   "dias": [
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável",
+    "🌙 SONO — 7 horas, inegociável"
+   ],
+   "cores": [
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    },
+    {
+     "bg": "E9EBEF",
+     "fg": "97A1AD",
+     "bold": false,
+     "materia": null
+    }
+   ]
+  }
+ ],
+ "meses": [
+  {
+   "mes": "Ago/26",
+   "fase": "FASE 1 · BASE",
+   "marco": "Montar a rotina e não quebrar. Meta: 4 semanas cheias sem furo.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Conjuntos numéricos, operações, MMC e MDC, razão e proporção, regra de três, porcentagem e juros",
+     "meta": "300 questões de aritmética"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Interpretação de texto, tipologia e gêneros textuais, coesão e coerência",
+     "meta": "2 textos comentados por semana"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Grandezas e unidades (SI), notação científica, cinemática escalar (MU e MUV), gráficos do movimento",
+     "meta": "Dominar os gráficos s×t e v×t"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "Matéria e energia, estados físicos, propriedades, misturas e separação de misturas",
+     "meta": "Tabela dos métodos de separação"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Povos indígenas, período pré-colonial, expansão marítima, administração colonial",
+     "meta": "Linha do tempo 1500–1600"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Posição geográfica, limites e fronteiras, fusos horários, cartografia",
+     "meta": "30 questões de fuso horário"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Introdução à literatura, gêneros literários, figuras de linguagem, versificação",
+     "meta": "Fichar as 15 figuras principais"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Estrutura do dissertativo-argumentativo; tese e delimitação do tema",
+     "meta": "4 redações — uma por semana"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Nouns, articles, simple present, vocabulário de rotina",
+     "meta": "Diagnóstico: uma prova antiga"
+    }
+   ]
+  },
+  {
+   "mes": "Set/26",
+   "fase": "FASE 1 · BASE",
+   "marco": "Primeiro simulado completo no último sábado do mês.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Equações e inequações de 1º e 2º grau; funções: domínio, imagem e gráfico; função afim",
+     "meta": "Zerar equações do 2º grau"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Fonética e fonologia, ortografia oficial, Acordo de 1990, acentuação gráfica",
+     "meta": "Lista de 100 palavras-armadilha"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Queda livre, lançamento vertical, cinemática vetorial, lançamentos e MCU",
+     "meta": "150 questões de cinemática"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "Ar atmosférico e água — os dois tópicos citados literalmente no edital da EAM",
+     "meta": "Resumo de uma página de cada"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Economia açucareira e escravidão, invasões holandesas, entradas e bandeiras",
+     "meta": "Mapa da expansão territorial"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Estrutura geológica, relevo brasileiro, clima e massas de ar",
+     "meta": "Desenhar o relevo de memória"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Trovadorismo, Humanismo, Classicismo e Quinhentismo",
+     "meta": "Quadro-resumo por escola"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Parágrafo de introdução; construção do argumento",
+     "meta": "4 redações"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Pronouns, adjectives and adverbs, comparative and superlative",
+     "meta": "30 questões"
+    }
+   ]
+  },
+  {
+   "mes": "Out/26",
+   "fase": "FASE 1 · BASE",
+   "marco": "Começa a revisão espaçada dos tópicos de agosto (30 dias).",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Função quadrática, função modular e função exponencial",
+     "meta": "Gráficos sem calculadora"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Estrutura e formação de palavras; substantivo, adjetivo, artigo, numeral e pronome",
+     "meta": "Classificação em 200 questões"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Leis de Newton e aplicações: atrito, plano inclinado, tração e sistemas de blocos",
+     "meta": "Diagrama de corpo livre automático"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "Modelos atômicos, estrutura do átomo, semelhanças atômicas, distribuição eletrônica",
+     "meta": "Pauling de cor"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Mineração, tratados de limites e rebeliões nativistas",
+     "meta": "Quadro das revoltas: causa e efeito"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Vegetação, domínios morfoclimáticos, hidrografia e questões ambientais",
+     "meta": "Mapa dos 6 domínios"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Barroco e Arcadismo",
+     "meta": "Gregório de Matos e Tomás A. Gonzaga"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Repertório sociocultural: montar um banco de 20 repertórios",
+     "meta": "Banco pronto + 4 redações"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Simple past, past continuous, present perfect",
+     "meta": "30 questões"
+    }
+   ]
+  },
+  {
+   "mes": "Nov/26",
+   "fase": "FASE 1 · BASE",
+   "marco": "Fechar a primeira passada das exatas.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Logaritmos e função logarítmica; sequências, PA e PG",
+     "meta": "200 questões de PA e PG"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Verbo: conjugação, tempos, modos e vozes; advérbio, preposição, conjunção",
+     "meta": "Verbo é campeão de questões"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Trabalho, potência, energia e conservação; impulso, quantidade de movimento e colisões",
+     "meta": "150 questões de energia"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "Tabela periódica: organização e propriedades periódicas",
+     "meta": "Prever propriedades sem consultar"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Movimentos pró-independência, período joanino e Independência de 1822",
+     "meta": "Ligar 1808 → 1822 → 1824"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Formação do território, regionalização (IBGE e geoeconômica), industrialização",
+     "meta": "Comparar as duas regionalizações"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Romantismo: poesia (3 gerações) e prosa",
+     "meta": "Alencar, Álvares de Azevedo, Castro Alves"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Conclusão e proposta de intervenção; coesão e conectivos",
+     "meta": "4 redações"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Past perfect e formas de futuro (will / going to)",
+     "meta": "30 questões"
+    }
+   ]
+  },
+  {
+   "mes": "Dez/26",
+   "fase": "FASE 2 · APROFUNDAR",
+   "marco": "Todo exercício passa a vir de prova anterior. Recesso do curso: use o PLANO SEM CURSO.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Trigonometria: triângulo retângulo, ciclo, funções, leis dos senos e cossenos",
+     "meta": "Ciclo trigonométrico decorado"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Sintaxe I: termos essenciais, integrantes e acessórios; período simples",
+     "meta": "Analisar 100 períodos"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Estática e hidrostática (pressão, Pascal, Arquimedes)",
+     "meta": "Cai muito na EAM, por contexto naval"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "Ligações iônica, covalente e metálica; geometria molecular e polaridade",
+     "meta": "Prever geometria e polaridade"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Primeiro Reinado, Confederação do Equador, Período Regencial e revoltas",
+     "meta": "Quadro das 4 revoltas regenciais"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Agricultura, pecuária, agronegócio, extrativismo e recursos minerais",
+     "meta": "Mapa da produção por região"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Realismo e Naturalismo: Machado de Assis e Aluísio Azevedo",
+     "meta": "Fichar Dom Casmurro e O Cortiço"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Norma culta aplicada e gestão de tempo: rascunho em 15 min",
+     "meta": "4 redações cronometradas"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Modal verbs; prepositions of time, place and movement",
+     "meta": "30 questões"
+    }
+   ]
+  },
+  {
+   "mes": "Jan/27",
+   "fase": "FASE 2 · APROFUNDAR",
+   "marco": "EDITAL DA EAM PREVISTO. Conferir o conteúdo oficial e ajustar esta planilha.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Análise combinatória e probabilidade",
+     "meta": "200 questões"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Sintaxe II: período composto por coordenação e por subordinação",
+     "meta": "Classificar 150 orações"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Termologia: escalas, dilatação, calorimetria, mudanças de estado e gases",
+     "meta": "150 questões"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "Funções inorgânicas: ácidos, bases, sais e óxidos",
+     "meta": "Nomear 100 compostos"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Segundo Reinado: café, Guerra do Paraguai, abolição e crise do Império",
+     "meta": "Guerra do Paraguai cai muito"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Energia e matriz energética; transportes; comércio exterior",
+     "meta": "Matriz energética atualizada"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Parnasianismo e Simbolismo",
+     "meta": "Olavo Bilac e Cruz e Sousa"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Temas militares e de atualidades, cronometrado em 60 min",
+     "meta": "4 redações"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Conjunctions, linking words e reading comprehension",
+     "meta": "30 questões"
+    }
+   ]
+  },
+  {
+   "mes": "Fev/27",
+   "fase": "FASE 3 · RETA EAM",
+   "marco": "APLICAR O AJUSTE DA FASE 3 NA GRADE. Simulado no formato EAM toda semana.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Matrizes, determinantes e sistemas lineares",
+     "meta": "150 questões"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Concordância nominal e verbal; regência; crase",
+     "meta": "Os três assuntos mais cobrados"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Óptica geométrica (espelhos e lentes) e ondulatória",
+     "meta": "150 questões"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "Reações químicas: tipos e balanceamento",
+     "meta": "Balancear 100 reações"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Manutenção — só flashcards",
+     "meta": "3 revisões por semana"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Manutenção — só flashcards",
+     "meta": "3 revisões por semana"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Manutenção — só flashcards",
+     "meta": "2 revisões por semana"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Uma redação por semana para não perder a mão",
+     "meta": "4 redações"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Reading comprehension com textos de prova da EAM",
+     "meta": "Uma prova antiga por semana"
+    }
+   ]
+  },
+  {
+   "mes": "Mar/27",
+   "fase": "FASE 3 · RETA EAM",
+   "marco": "EDITAL DA ESA PREVISTO. Confirmar a inscrição na EAM.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Geometria plana completa: Tales, semelhança, relações métricas, polígonos, círculo e áreas",
+     "meta": "O bloco mais cobrado na EAM"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Colocação pronominal, pontuação e semântica",
+     "meta": "150 questões"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Acústica, eletrostática e eletrodinâmica (Ohm, resistores, circuitos, potência)",
+     "meta": "200 questões"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "Mol, estequiometria, soluções e concentrações",
+     "meta": "150 questões"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Manutenção — flashcards",
+     "meta": "2 revisões por semana"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Manutenção — flashcards",
+     "meta": "2 revisões por semana"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Manutenção — flashcards",
+     "meta": "2 revisões por semana"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Uma redação por semana",
+     "meta": "4 redações"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Vocabulário náutico e militar; revisão de grammar",
+     "meta": "Uma prova antiga por semana"
+    }
+   ]
+  },
+  {
+   "mes": "Abr/27",
+   "fase": "FASE 3 · PICO EAM",
+   "marco": "PROVA DA EAM NO FIM DO MÊS. Nada de assunto novo depois do dia 10.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Geometria espacial (prismas, pirâmides, cilindros, cones, esferas) + REVISÃO GERAL",
+     "meta": "10 provas anteriores completas"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "REVISÃO GERAL: refazer o caderno de erros inteiro + 5 provas da EAM",
+     "meta": "Zerar o caderno de erros"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "Magnetismo e eletromagnetismo + REVISÃO GERAL de toda a Física",
+     "meta": "10 provas anteriores"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "REVISÃO GERAL de toda a Química + provas anteriores",
+     "meta": "10 provas anteriores"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Congelado até a prova da EAM",
+     "meta": "—"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Congelado até a prova da EAM",
+     "meta": "—"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Congelado até a prova da EAM",
+     "meta": "—"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Congelado (não cai na EAM). Retomar no dia seguinte à prova",
+     "meta": "—"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Revisão de grammar + 10 provas anteriores da EAM",
+     "meta": "10 provas"
+    }
+   ]
+  },
+  {
+   "mes": "Mai/27",
+   "fase": "FASE 4 · VIRADA ESA",
+   "marco": "APLICAR O AJUSTE DA FASE 4. Física e Química saem da grade. Inscrição na ESA.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Exclusivos da ESA: polinômios, equações polinomiais, números complexos, binômio de Newton, geometria analítica",
+     "meta": "200 questões"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Figuras de linguagem, versificação, funções da linguagem e variedades linguísticas",
+     "meta": "Exclusivos da ESA"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "FORA DA GRADE — não cai na ESA",
+     "meta": "—"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "FORA DA GRADE — não cai na ESA",
+     "meta": "—"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Era Vargas, Brasil na 2ª Guerra e a FEB, República Populista",
+     "meta": "A FEB cai muito na ESA"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Demografia, migrações, urbanização, mercado de trabalho e IDH",
+     "meta": "150 questões"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Modernismo: 1ª fase (Semana de 22) e 2ª fase",
+     "meta": "Quadro por fase e autor"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Duas redações por semana, com correção rigorosa",
+     "meta": "8 redações"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "INTENSIVO — vale 10 questões: reading, conditionals e passive voice",
+     "meta": "Uma prova antiga por semana"
+    }
+   ]
+  },
+  {
+   "mes": "Jun/27",
+   "fase": "FASE 4 · VIRADA ESA",
+   "marco": "Simulado no formato ESA toda semana.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "REVISÃO GERAL + 10 provas anteriores da ESA",
+     "meta": "Acerto acima de 75%"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "REVISÃO GERAL da gramática + 10 provas da ESA",
+     "meta": "Acerto acima de 75%"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "FORA DA GRADE",
+     "meta": "—"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "FORA DA GRADE",
+     "meta": "—"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Regime Militar, Nova República e Brasil contemporâneo + revisão cronológica",
+     "meta": "Linha do tempo 1500 até hoje"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Geopolítica, Amazônia e fronteiras + revisão geral",
+     "meta": "Acerto acima de 75%"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Modernismo 3ª fase e contemporânea + revisão",
+     "meta": "Quadro-resumo completo"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Duas redações por semana; foco na proposta de intervenção",
+     "meta": "8 redações"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "10 provas anteriores da ESA",
+     "meta": "Acerto acima de 70%"
+    }
+   ]
+  },
+  {
+   "mes": "Jul/27",
+   "fase": "FASE 5 · PICO ESA",
+   "marco": "PROVA DA ESA NO FIM DO MÊS. Zero assunto novo — só revisão, questões e ritmo.",
+   "itens": [
+    {
+     "materia": "Matemática",
+     "conteudo": "Refazer o caderno de erros + 2 simulados por semana",
+     "meta": "Acerto acima de 80%"
+    },
+    {
+     "materia": "Português",
+     "conteudo": "Refazer o caderno de erros + 2 simulados por semana",
+     "meta": "Acerto acima de 80%"
+    },
+    {
+     "materia": "Física",
+     "conteudo": "FORA DA GRADE",
+     "meta": "—"
+    },
+    {
+     "materia": "Química",
+     "conteudo": "FORA DA GRADE",
+     "meta": "—"
+    },
+    {
+     "materia": "História",
+     "conteudo": "Revisão relâmpago por flashcards, todo dia",
+     "meta": "Ciclo completo a cada 3 dias"
+    },
+    {
+     "materia": "Geografia",
+     "conteudo": "Revisão relâmpago por flashcards, todo dia",
+     "meta": "Ciclo completo a cada 3 dias"
+    },
+    {
+     "materia": "Literatura",
+     "conteudo": "Revisão relâmpago por flashcards, todo dia",
+     "meta": "Ciclo completo a cada 3 dias"
+    },
+    {
+     "materia": "Redação",
+     "conteudo": "Duas por semana até a semana da prova",
+     "meta": "Nota estável acima de 7,0"
+    },
+    {
+     "materia": "Inglês",
+     "conteudo": "Revisão de grammar + um texto por dia",
+     "meta": "Manter o ritmo de leitura"
+    }
+   ]
+  }
+ ],
+ "topicos": [
+  {
+   "id": 1,
+   "materia": "Matemática",
+   "unidade": "Aritmética e conjuntos",
+   "topico": "Noções de conjuntos, operações e diagramas; raciocínio lógico",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 2,
+   "materia": "Matemática",
+   "unidade": "Aritmética e conjuntos",
+   "topico": "Conjuntos numéricos (N, Z, Q, I, R) e propriedades",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 3,
+   "materia": "Matemática",
+   "unidade": "Aritmética e conjuntos",
+   "topico": "Operações, potenciação, radiciação; MMC e MDC",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 4,
+   "materia": "Matemática",
+   "unidade": "Aritmética e conjuntos",
+   "topico": "Razão, proporção e regra de três simples e composta",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 5,
+   "materia": "Matemática",
+   "unidade": "Aritmética e conjuntos",
+   "topico": "Porcentagem, juros simples e juros compostos",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 6,
+   "materia": "Matemática",
+   "unidade": "Álgebra",
+   "topico": "Equações e inequações do 1º grau",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 7,
+   "materia": "Matemática",
+   "unidade": "Álgebra",
+   "topico": "Equações e inequações do 2º grau",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 8,
+   "materia": "Matemática",
+   "unidade": "Álgebra",
+   "topico": "Funções: definição, domínio, imagem e gráfico",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 9,
+   "materia": "Matemática",
+   "unidade": "Álgebra",
+   "topico": "Função afim (linear)",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 10,
+   "materia": "Matemática",
+   "unidade": "Álgebra",
+   "topico": "Função quadrática",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 11,
+   "materia": "Matemática",
+   "unidade": "Álgebra",
+   "topico": "Função modular",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Out/26"
+  },
+  {
+   "id": 12,
+   "materia": "Matemática",
+   "unidade": "Álgebra",
+   "topico": "Função exponencial e equações exponenciais",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 13,
+   "materia": "Matemática",
+   "unidade": "Álgebra",
+   "topico": "Logaritmos: definição, propriedades e função logarítmica",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 14,
+   "materia": "Matemática",
+   "unidade": "Sequências",
+   "topico": "Sequências numéricas e progressão aritmética (PA)",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 15,
+   "materia": "Matemática",
+   "unidade": "Sequências",
+   "topico": "Progressão geométrica (PG) e soma dos termos",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 16,
+   "materia": "Matemática",
+   "unidade": "Trigonometria",
+   "topico": "Trigonometria no triângulo retângulo",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 17,
+   "materia": "Matemática",
+   "unidade": "Trigonometria",
+   "topico": "Ciclo trigonométrico, arcos e redução ao 1º quadrante",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 18,
+   "materia": "Matemática",
+   "unidade": "Trigonometria",
+   "topico": "Funções e equações trigonométricas",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 19,
+   "materia": "Matemática",
+   "unidade": "Trigonometria",
+   "topico": "Leis dos senos e dos cossenos",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 20,
+   "materia": "Matemática",
+   "unidade": "Contagem",
+   "topico": "Análise combinatória: princípio fundamental, arranjo, permutação e combinação",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 21,
+   "materia": "Matemática",
+   "unidade": "Contagem",
+   "topico": "Probabilidade: eventos, união, intersecção e condicional",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 22,
+   "materia": "Matemática",
+   "unidade": "Contagem",
+   "topico": "Binômio de Newton",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 23,
+   "materia": "Matemática",
+   "unidade": "Álgebra linear",
+   "topico": "Matrizes: tipos e operações",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 24,
+   "materia": "Matemática",
+   "unidade": "Álgebra linear",
+   "topico": "Determinantes e propriedades",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 25,
+   "materia": "Matemática",
+   "unidade": "Álgebra linear",
+   "topico": "Sistemas lineares e escalonamento",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 26,
+   "materia": "Matemática",
+   "unidade": "Geometria plana",
+   "topico": "Ângulos, retas paralelas e Teorema de Tales",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 27,
+   "materia": "Matemática",
+   "unidade": "Geometria plana",
+   "topico": "Triângulos: congruência, semelhança e relações métricas",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 28,
+   "materia": "Matemática",
+   "unidade": "Geometria plana",
+   "topico": "Quadriláteros e polígonos regulares",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 29,
+   "materia": "Matemática",
+   "unidade": "Geometria plana",
+   "topico": "Circunferência e círculo",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 30,
+   "materia": "Matemática",
+   "unidade": "Geometria plana",
+   "topico": "Áreas de figuras planas",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 31,
+   "materia": "Matemática",
+   "unidade": "Geometria espacial",
+   "topico": "Geometria espacial de posição (retas e planos)",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 32,
+   "materia": "Matemática",
+   "unidade": "Geometria espacial",
+   "topico": "Prismas e cubos: área e volume",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Abr/27"
+  },
+  {
+   "id": 33,
+   "materia": "Matemática",
+   "unidade": "Geometria espacial",
+   "topico": "Pirâmides: área e volume",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Abr/27"
+  },
+  {
+   "id": 34,
+   "materia": "Matemática",
+   "unidade": "Geometria espacial",
+   "topico": "Cilindros, cones e esferas: área e volume",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Abr/27"
+  },
+  {
+   "id": 35,
+   "materia": "Matemática",
+   "unidade": "Geometria analítica",
+   "topico": "Ponto e reta no plano cartesiano",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 36,
+   "materia": "Matemática",
+   "unidade": "Geometria analítica",
+   "topico": "Circunferência e seções cônicas",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 37,
+   "materia": "Matemática",
+   "unidade": "Polinômios",
+   "topico": "Polinômios: operações e teorema do resto",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 38,
+   "materia": "Matemática",
+   "unidade": "Polinômios",
+   "topico": "Equações polinomiais e relações de Girard",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 39,
+   "materia": "Matemática",
+   "unidade": "Polinômios",
+   "topico": "Números complexos",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 40,
+   "materia": "Matemática",
+   "unidade": "Estatística",
+   "topico": "Estatística básica: média, moda, mediana e gráficos",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 41,
+   "materia": "Português",
+   "unidade": "Texto",
+   "topico": "Leitura, interpretação e análise de textos",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 42,
+   "materia": "Português",
+   "unidade": "Texto",
+   "topico": "Tipologia e gêneros textuais; tipos de discurso",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 43,
+   "materia": "Português",
+   "unidade": "Texto",
+   "topico": "Coesão e coerência textual",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 44,
+   "materia": "Português",
+   "unidade": "Texto",
+   "topico": "Variedades linguísticas e funções da linguagem",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 45,
+   "materia": "Português",
+   "unidade": "Fonologia e ortografia",
+   "topico": "Fonética e fonologia: encontros vocálicos, consonantais e dígrafos",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 46,
+   "materia": "Português",
+   "unidade": "Fonologia e ortografia",
+   "topico": "Ortografia oficial e Acordo Ortográfico de 1990",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 47,
+   "materia": "Português",
+   "unidade": "Fonologia e ortografia",
+   "topico": "Acentuação gráfica",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 48,
+   "materia": "Português",
+   "unidade": "Morfologia",
+   "topico": "Estrutura e formação de palavras",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 49,
+   "materia": "Português",
+   "unidade": "Morfologia",
+   "topico": "Substantivo e adjetivo",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 50,
+   "materia": "Português",
+   "unidade": "Morfologia",
+   "topico": "Artigo, numeral e pronome",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 51,
+   "materia": "Português",
+   "unidade": "Morfologia",
+   "topico": "Verbo: conjugação, tempos, modos e vozes",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 52,
+   "materia": "Português",
+   "unidade": "Morfologia",
+   "topico": "Advérbio, preposição, conjunção e interjeição",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 53,
+   "materia": "Português",
+   "unidade": "Sintaxe",
+   "topico": "Termos essenciais da oração: sujeito e predicado",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 54,
+   "materia": "Português",
+   "unidade": "Sintaxe",
+   "topico": "Termos integrantes e acessórios: complementos, adjuntos, aposto e vocativo",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 55,
+   "materia": "Português",
+   "unidade": "Sintaxe",
+   "topico": "Período composto por coordenação",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 56,
+   "materia": "Português",
+   "unidade": "Sintaxe",
+   "topico": "Período composto por subordinação: substantivas, adjetivas e adverbiais",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 57,
+   "materia": "Português",
+   "unidade": "Morfossintaxe",
+   "topico": "Concordância nominal",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 58,
+   "materia": "Português",
+   "unidade": "Morfossintaxe",
+   "topico": "Concordância verbal",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 59,
+   "materia": "Português",
+   "unidade": "Morfossintaxe",
+   "topico": "Regência nominal e verbal",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 60,
+   "materia": "Português",
+   "unidade": "Morfossintaxe",
+   "topico": "Crase",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 61,
+   "materia": "Português",
+   "unidade": "Morfossintaxe",
+   "topico": "Colocação pronominal",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 62,
+   "materia": "Português",
+   "unidade": "Morfossintaxe",
+   "topico": "Pontuação",
+   "prova": "AMBAS",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 63,
+   "materia": "Português",
+   "unidade": "Semântica e estilística",
+   "topico": "Semântica: sinonímia, antonímia, polissemia e ambiguidade",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 64,
+   "materia": "Português",
+   "unidade": "Semântica e estilística",
+   "topico": "Figuras de linguagem",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 65,
+   "materia": "Português",
+   "unidade": "Estilística",
+   "topico": "Noções de versificação: metrificação, rima e estrofe",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 66,
+   "materia": "Literatura",
+   "unidade": "Origens",
+   "topico": "Introdução à literatura e gêneros literários",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 67,
+   "materia": "Literatura",
+   "unidade": "Origens",
+   "topico": "Trovadorismo e Humanismo",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 68,
+   "materia": "Literatura",
+   "unidade": "Origens",
+   "topico": "Classicismo e Quinhentismo (literatura de informação)",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 69,
+   "materia": "Literatura",
+   "unidade": "Séculos XVII–XVIII",
+   "topico": "Barroco: Gregório de Matos e Padre Antônio Vieira",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Out/26"
+  },
+  {
+   "id": 70,
+   "materia": "Literatura",
+   "unidade": "Séculos XVII–XVIII",
+   "topico": "Arcadismo: Cláudio Manuel da Costa e Tomás Antônio Gonzaga",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Out/26"
+  },
+  {
+   "id": 71,
+   "materia": "Literatura",
+   "unidade": "Século XIX",
+   "topico": "Romantismo — poesia: as três gerações",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 72,
+   "materia": "Literatura",
+   "unidade": "Século XIX",
+   "topico": "Romantismo — prosa: José de Alencar e Manuel Antônio de Almeida",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 73,
+   "materia": "Literatura",
+   "unidade": "Século XIX",
+   "topico": "Realismo e Naturalismo: Machado de Assis e Aluísio Azevedo",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 74,
+   "materia": "Literatura",
+   "unidade": "Século XIX",
+   "topico": "Parnasianismo: Olavo Bilac",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 75,
+   "materia": "Literatura",
+   "unidade": "Século XIX",
+   "topico": "Simbolismo: Cruz e Sousa",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 76,
+   "materia": "Literatura",
+   "unidade": "Século XX",
+   "topico": "Pré-Modernismo: Euclides da Cunha, Lima Barreto e Monteiro Lobato",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 77,
+   "materia": "Literatura",
+   "unidade": "Século XX",
+   "topico": "Modernismo 1ª fase: Semana de 22, Mário e Oswald de Andrade",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 78,
+   "materia": "Literatura",
+   "unidade": "Século XX",
+   "topico": "Modernismo 2ª fase — poesia: Drummond, Cecília Meireles, Vinicius de Moraes",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 79,
+   "materia": "Literatura",
+   "unidade": "Século XX",
+   "topico": "Modernismo 2ª fase — prosa regionalista: Graciliano Ramos, Jorge Amado, Rachel de Queiroz",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 80,
+   "materia": "Literatura",
+   "unidade": "Século XX",
+   "topico": "Modernismo 3ª fase: Guimarães Rosa, Clarice Lispector e João Cabral",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 81,
+   "materia": "Literatura",
+   "unidade": "Século XX",
+   "topico": "Literatura contemporânea",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 82,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Estrutura do texto dissertativo-argumentativo",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 83,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Delimitação do tema e construção da tese",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 84,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Parágrafo de introdução",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 85,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Parágrafos de desenvolvimento e tipos de argumento",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 86,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Repertório sociocultural e dados de apoio",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 87,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Conclusão e proposta de intervenção",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 88,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Coesão: conectivos e referenciação",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 89,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Norma culta aplicada: erros que derrubam a nota",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 90,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Gestão de tempo: rascunho e revisão em 60 minutos",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 91,
+   "materia": "Redação",
+   "unidade": "Técnica",
+   "topico": "Temas recorrentes: cidadania, Forças Armadas, tecnologia e meio ambiente",
+   "prova": "ESA",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 92,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Povos indígenas e período pré-colonial",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 93,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Expansão marítima e a chegada dos portugueses",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 94,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Administração colonial: capitanias hereditárias e governo-geral",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 95,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Economia açucareira e escravidão",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 96,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Invasões estrangeiras: holandeses e franceses",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 97,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Entradas, bandeiras e expansão territorial",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 98,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Mineração e sociedade mineradora",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 99,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Tratados de limites e consolidação do território",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 100,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Rebeliões nativistas: Beckman, Emboabas, Mascates e Vila Rica",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 101,
+   "materia": "História",
+   "unidade": "Brasil Colônia",
+   "topico": "Movimentos pró-independência: Inconfidência Mineira e Conjuração Baiana",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 102,
+   "materia": "História",
+   "unidade": "Brasil Império",
+   "topico": "Período joanino e a vinda da Corte (1808)",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 103,
+   "materia": "História",
+   "unidade": "Brasil Império",
+   "topico": "Independência do Brasil (1822) e a Constituição de 1824",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 104,
+   "materia": "História",
+   "unidade": "Brasil Império",
+   "topico": "Primeiro Reinado e a Confederação do Equador",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 105,
+   "materia": "História",
+   "unidade": "Brasil Império",
+   "topico": "Período Regencial: Cabanagem, Sabinada, Balaiada e Farroupilha",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 106,
+   "materia": "História",
+   "unidade": "Brasil Império",
+   "topico": "Segundo Reinado: política e economia cafeeira",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 107,
+   "materia": "História",
+   "unidade": "Brasil Império",
+   "topico": "Guerra do Paraguai",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 108,
+   "materia": "História",
+   "unidade": "Brasil Império",
+   "topico": "Abolição da escravidão e crise do Império",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 109,
+   "materia": "História",
+   "unidade": "Brasil República",
+   "topico": "Proclamação da República e República da Espada",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 110,
+   "materia": "História",
+   "unidade": "Brasil República",
+   "topico": "República Oligárquica: coronelismo, política dos governadores e revoltas",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 111,
+   "materia": "História",
+   "unidade": "Brasil República",
+   "topico": "Revolução de 1930 e Era Vargas (1930–1945)",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 112,
+   "materia": "História",
+   "unidade": "Brasil República",
+   "topico": "Brasil na Segunda Guerra Mundial e a Força Expedicionária Brasileira",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 113,
+   "materia": "História",
+   "unidade": "Brasil República",
+   "topico": "República Populista (1945–1964)",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 114,
+   "materia": "História",
+   "unidade": "Brasil República",
+   "topico": "Regime Militar (1964–1985)",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 115,
+   "materia": "História",
+   "unidade": "Brasil República",
+   "topico": "Nova República e Brasil contemporâneo",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 116,
+   "materia": "Geografia",
+   "unidade": "Espaço natural",
+   "topico": "Posição geográfica, limites e fronteiras do Brasil",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 117,
+   "materia": "Geografia",
+   "unidade": "Espaço natural",
+   "topico": "Fusos horários",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 118,
+   "materia": "Geografia",
+   "unidade": "Espaço natural",
+   "topico": "Cartografia: escalas, projeções e coordenadas",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 119,
+   "materia": "Geografia",
+   "unidade": "Espaço natural",
+   "topico": "Estrutura geológica e relevo brasileiro",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 120,
+   "materia": "Geografia",
+   "unidade": "Espaço natural",
+   "topico": "Clima do Brasil e massas de ar",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 121,
+   "materia": "Geografia",
+   "unidade": "Espaço natural",
+   "topico": "Vegetação e domínios morfoclimáticos",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 122,
+   "materia": "Geografia",
+   "unidade": "Espaço natural",
+   "topico": "Hidrografia e bacias hidrográficas",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 123,
+   "materia": "Geografia",
+   "unidade": "Espaço natural",
+   "topico": "Questões ambientais e unidades de conservação",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 124,
+   "materia": "Geografia",
+   "unidade": "Espaço econômico",
+   "topico": "Formação do território e regionalização (IBGE e geoeconômica)",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 125,
+   "materia": "Geografia",
+   "unidade": "Espaço econômico",
+   "topico": "Industrialização brasileira e polos industriais",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 126,
+   "materia": "Geografia",
+   "unidade": "Espaço econômico",
+   "topico": "Agricultura, pecuária e agronegócio",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 127,
+   "materia": "Geografia",
+   "unidade": "Espaço econômico",
+   "topico": "Extrativismo e recursos minerais",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 128,
+   "materia": "Geografia",
+   "unidade": "Espaço econômico",
+   "topico": "Fontes de energia e matriz energética",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 129,
+   "materia": "Geografia",
+   "unidade": "Espaço econômico",
+   "topico": "Transportes e infraestrutura",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 130,
+   "materia": "Geografia",
+   "unidade": "Espaço econômico",
+   "topico": "Comércio exterior e blocos econômicos",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 131,
+   "materia": "Geografia",
+   "unidade": "Espaço político",
+   "topico": "Estrutura administrativa e organização política do Brasil",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 132,
+   "materia": "Geografia",
+   "unidade": "Espaço político",
+   "topico": "Geopolítica brasileira, Amazônia e faixa de fronteira",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 133,
+   "materia": "Geografia",
+   "unidade": "Espaço humano",
+   "topico": "Demografia: crescimento, estrutura etária e IDH",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 134,
+   "materia": "Geografia",
+   "unidade": "Espaço humano",
+   "topico": "Migrações internas e externas",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 135,
+   "materia": "Geografia",
+   "unidade": "Espaço humano",
+   "topico": "Urbanização e rede urbana",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 136,
+   "materia": "Geografia",
+   "unidade": "Espaço humano",
+   "topico": "Mercado de trabalho e desigualdade social",
+   "prova": "ESA",
+   "prioridade": 2,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 137,
+   "materia": "Física",
+   "unidade": "Introdução e cinemática",
+   "topico": "Grandezas físicas, unidades do SI e notação científica",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 138,
+   "materia": "Física",
+   "unidade": "Introdução e cinemática",
+   "topico": "Cinemática escalar: movimento uniforme e uniformemente variado",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 139,
+   "materia": "Física",
+   "unidade": "Introdução e cinemática",
+   "topico": "Gráficos do movimento (s×t, v×t, a×t)",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 140,
+   "materia": "Física",
+   "unidade": "Introdução e cinemática",
+   "topico": "Queda livre e lançamento vertical",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 141,
+   "materia": "Física",
+   "unidade": "Introdução e cinemática",
+   "topico": "Cinemática vetorial; lançamento horizontal e oblíquo",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 142,
+   "materia": "Física",
+   "unidade": "Introdução e cinemática",
+   "topico": "Movimento circular uniforme",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 143,
+   "materia": "Física",
+   "unidade": "Dinâmica",
+   "topico": "Leis de Newton",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 144,
+   "materia": "Física",
+   "unidade": "Dinâmica",
+   "topico": "Aplicações: força de atrito, plano inclinado, tração e sistemas de blocos",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 145,
+   "materia": "Física",
+   "unidade": "Dinâmica",
+   "topico": "Trabalho e potência",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 146,
+   "materia": "Física",
+   "unidade": "Dinâmica",
+   "topico": "Energia cinética, potencial e conservação de energia",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 147,
+   "materia": "Física",
+   "unidade": "Dinâmica",
+   "topico": "Impulso, quantidade de movimento e colisões",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 148,
+   "materia": "Física",
+   "unidade": "Estática e hidrostática",
+   "topico": "Estática do ponto material e do corpo extenso",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 149,
+   "materia": "Física",
+   "unidade": "Estática e hidrostática",
+   "topico": "Hidrostática: pressão, princípio de Pascal e princípio de Arquimedes",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 150,
+   "materia": "Física",
+   "unidade": "Termologia",
+   "topico": "Escalas termométricas e dilatação",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 151,
+   "materia": "Física",
+   "unidade": "Termologia",
+   "topico": "Calorimetria e mudanças de estado",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 152,
+   "materia": "Física",
+   "unidade": "Termologia",
+   "topico": "Estudo dos gases e noções de termodinâmica",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 153,
+   "materia": "Física",
+   "unidade": "Óptica e ondas",
+   "topico": "Óptica geométrica: reflexão e espelhos planos e esféricos",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 154,
+   "materia": "Física",
+   "unidade": "Óptica e ondas",
+   "topico": "Refração e lentes",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 155,
+   "materia": "Física",
+   "unidade": "Óptica e ondas",
+   "topico": "Ondulatória: características e fenômenos ondulatórios",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 156,
+   "materia": "Física",
+   "unidade": "Óptica e ondas",
+   "topico": "Acústica: qualidades do som e efeito Doppler",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Fev/27"
+  },
+  {
+   "id": 157,
+   "materia": "Física",
+   "unidade": "Eletricidade e magnetismo",
+   "topico": "Eletrostática: eletrização, Lei de Coulomb e campo elétrico",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 158,
+   "materia": "Física",
+   "unidade": "Eletricidade e magnetismo",
+   "topico": "Eletrodinâmica: corrente, Leis de Ohm e resistores",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 159,
+   "materia": "Física",
+   "unidade": "Eletricidade e magnetismo",
+   "topico": "Circuitos elétricos, potência e consumo de energia",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 160,
+   "materia": "Física",
+   "unidade": "Eletricidade e magnetismo",
+   "topico": "Magnetismo: ímãs, campo magnético e eletromagnetismo",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 161,
+   "materia": "Química",
+   "unidade": "Fundamentos",
+   "topico": "Matéria e energia; estados físicos e mudanças de estado",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 162,
+   "materia": "Química",
+   "unidade": "Fundamentos",
+   "topico": "Propriedades da matéria e transformações físicas e químicas",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 163,
+   "materia": "Química",
+   "unidade": "Fundamentos",
+   "topico": "Substâncias puras e misturas",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 164,
+   "materia": "Química",
+   "unidade": "Fundamentos",
+   "topico": "Processos de separação de misturas",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 165,
+   "materia": "Química",
+   "unidade": "Ar e água",
+   "topico": "Ar atmosférico: composição, camadas e poluição",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 166,
+   "materia": "Química",
+   "unidade": "Ar e água",
+   "topico": "Água: propriedades, tratamento e poluição",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Set/26"
+  },
+  {
+   "id": 167,
+   "materia": "Química",
+   "unidade": "Atomística",
+   "topico": "Modelos atômicos: de Dalton a Rutherford-Bohr",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 168,
+   "materia": "Química",
+   "unidade": "Atomística",
+   "topico": "Estrutura do átomo; número atômico e número de massa",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 169,
+   "materia": "Química",
+   "unidade": "Atomística",
+   "topico": "Semelhanças atômicas: isótopos, isóbaros e isótonos",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 170,
+   "materia": "Química",
+   "unidade": "Atomística",
+   "topico": "Distribuição eletrônica (diagrama de Linus Pauling)",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Out/26"
+  },
+  {
+   "id": 171,
+   "materia": "Química",
+   "unidade": "Tabela periódica",
+   "topico": "Tabela periódica: organização e classificação dos elementos",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 172,
+   "materia": "Química",
+   "unidade": "Tabela periódica",
+   "topico": "Propriedades periódicas e aperiódicas",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Nov/26"
+  },
+  {
+   "id": 173,
+   "materia": "Química",
+   "unidade": "Ligações",
+   "topico": "Ligação iônica",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 174,
+   "materia": "Química",
+   "unidade": "Ligações",
+   "topico": "Ligação covalente e geometria molecular",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 175,
+   "materia": "Química",
+   "unidade": "Ligações",
+   "topico": "Ligação metálica; polaridade e forças intermoleculares",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 176,
+   "materia": "Química",
+   "unidade": "Funções inorgânicas",
+   "topico": "Ácidos: classificação, nomenclatura e propriedades",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 177,
+   "materia": "Química",
+   "unidade": "Funções inorgânicas",
+   "topico": "Bases: classificação, nomenclatura e propriedades",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 178,
+   "materia": "Química",
+   "unidade": "Funções inorgânicas",
+   "topico": "Sais e óxidos: classificação e nomenclatura",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Jan/27"
+  },
+  {
+   "id": 179,
+   "materia": "Química",
+   "unidade": "Reações e cálculos",
+   "topico": "Reações químicas: tipos e balanceamento",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 180,
+   "materia": "Química",
+   "unidade": "Reações e cálculos",
+   "topico": "Massa atômica, massa molecular e conceito de mol",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 181,
+   "materia": "Química",
+   "unidade": "Reações e cálculos",
+   "topico": "Estequiometria",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 182,
+   "materia": "Química",
+   "unidade": "Reações e cálculos",
+   "topico": "Soluções e concentrações",
+   "prova": "EAM",
+   "prioridade": 1,
+   "mes": "Mar/27"
+  },
+  {
+   "id": 183,
+   "materia": "Inglês",
+   "unidade": "Reading",
+   "topico": "Reading comprehension: textos curtos e médios",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 184,
+   "materia": "Inglês",
+   "unidade": "Reading",
+   "topico": "Vocabulário: rotina, esportes, roupas, alimentos, números e datas",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 185,
+   "materia": "Inglês",
+   "unidade": "Reading",
+   "topico": "Vocabulário náutico e militar",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Ago/26"
+  },
+  {
+   "id": 186,
+   "materia": "Inglês",
+   "unidade": "Grammar",
+   "topico": "Nouns: plural, countable and uncountable, genitive case",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Set/26"
+  },
+  {
+   "id": 187,
+   "materia": "Inglês",
+   "unidade": "Grammar",
+   "topico": "Articles (a, an, the)",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Set/26"
+  },
+  {
+   "id": 188,
+   "materia": "Inglês",
+   "unidade": "Grammar",
+   "topico": "Pronouns: personal, possessive, reflexive and relative",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Set/26"
+  },
+  {
+   "id": 189,
+   "materia": "Inglês",
+   "unidade": "Grammar",
+   "topico": "Adjectives and adverbs; comparative and superlative",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Set/26"
+  },
+  {
+   "id": 190,
+   "materia": "Inglês",
+   "unidade": "Verb tenses",
+   "topico": "Simple present and present continuous",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Out/26"
+  },
+  {
+   "id": 191,
+   "materia": "Inglês",
+   "unidade": "Verb tenses",
+   "topico": "Simple past and past continuous",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Out/26"
+  },
+  {
+   "id": 192,
+   "materia": "Inglês",
+   "unidade": "Verb tenses",
+   "topico": "Present perfect and past perfect",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Out/26"
+  },
+  {
+   "id": 193,
+   "materia": "Inglês",
+   "unidade": "Verb tenses",
+   "topico": "Future forms: will and going to",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Out/26"
+  },
+  {
+   "id": 194,
+   "materia": "Inglês",
+   "unidade": "Verb tenses",
+   "topico": "Modal verbs",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Out/26"
+  },
+  {
+   "id": 195,
+   "materia": "Inglês",
+   "unidade": "Estruturas",
+   "topico": "Prepositions of time, place and movement",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 196,
+   "materia": "Inglês",
+   "unidade": "Estruturas",
+   "topico": "Conjunctions and linking words",
+   "prova": "AMBAS",
+   "prioridade": 2,
+   "mes": "Dez/26"
+  },
+  {
+   "id": 197,
+   "materia": "Inglês",
+   "unidade": "Estruturas",
+   "topico": "Conditional sentences (if clauses)",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Mai/27"
+  },
+  {
+   "id": 198,
+   "materia": "Inglês",
+   "unidade": "Estruturas",
+   "topico": "Passive voice",
+   "prova": "ESA",
+   "prioridade": 3,
+   "mes": "Mai/27"
+  }
+ ],
+ "taf": {
+  "corrida_min": 14.5,
+  "natacao_seg": 90
+ }
+}

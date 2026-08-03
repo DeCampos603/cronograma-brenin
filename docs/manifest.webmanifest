@@ -1,0 +1,24 @@
+{
+  "name": "Cronograma do Brenin — ESA + EAM",
+  "short_name": "Cronograma",
+  "description": "Plano de estudos para a ESA e a EAM, com grade semanal, conteúdo programático e controle de progresso.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f5f7",
+  "theme_color": "#0e2038",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "icons": [
+    { "src": "./assets/icons/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./assets/icons/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icons/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icons/icone-mascara.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Hoje", "url": "./#/hoje" },
+    { "name": "Conteúdo", "url": "./#/conteudo" },
+    { "name": "Painel", "url": "./#/painel" }
+  ]
+}

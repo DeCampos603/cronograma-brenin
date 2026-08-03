@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Planilhas e dados brutos ficam fora do repositório
+*.xlsx
+*.xls
+*.csv
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Backups pessoais de progresso exportados pelo site
+cronograma-brenin-*.json
